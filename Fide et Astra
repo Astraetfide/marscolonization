@@ -1,14 +1,27 @@
-<div style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; max-width: 850px; margin: 2rem auto; padding: 3.5rem; background: linear-gradient(145deg, rgba(255,255,224,0.97) 0%, rgba(255,250,205,0.97) 100%); border-radius: 20px; box-shadow: 0 12px 24px -6px rgba(0,0,0,0.08), 0 4px 8px -2px rgba(0,0,0,0.02); color: #2d3748; line-height: 1.75; border: 1px solid rgba(255,255,255,0.3); backdrop-filter: blur(2px);">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <header style="margin-bottom: 2.5rem;">
-    <h1 style="text-align:center; font-size: 2.6rem; margin: 0 0 0.4rem; color: #2b2d42; font-weight: 700; letter-spacing: -0.025em; text-shadow: 0 2px 4px rgba(0,0,0,0.04);">
-      <span style="display: block; margin-bottom: 0.8rem;">✝️</span>
-      <em style="font-style: normal; border-bottom: 3px solid rgba(210,180,140,0.4); padding-bottom: 0.25em;">Colonizing the Moon and Mars is a Duty of Christians</em>
-    </h1>
-    <h2 style="text-align:center; font-size: 1.25rem; color: #4a5568; font-weight: 400; margin-top: 0.8rem; letter-spacing: 0.02em;">
-      A Christian Mission for an Interplanetary Humanity
-    </h2>
-  </header>
+  <title>Fide et Astra – Christian Mission for Space Colonization</title>
+
+  <!-- SEO: descrizione per Google -->
+  <meta name="description" content="Fide et Astra is a Christian initiative promoting the spiritual and ethical duty to colonize the Moon and Mars. Space is our divine mission.">
+
+  <!-- SEO: autore e parole chiave -->
+  <meta name="author" content="Astraetfide">
+  <meta name="keywords" content="Christianity, Mars, Moon, Colonization, Faith, Space, Theology, Mission">
+  <meta name="robots" content="index, follow">
+
+  <!-- Favicon (opzionale, se ne hai una) -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <!-- Open Graph: per anteprima su social -->
+  <meta property="og:title" content="Fide et Astra – Christian Mission for Space Colonization" />
+  <meta property="og:description" content="A Christian vision for humanity's journey to the stars." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://astraetfide.github.io/marscolonization" />
+  <meta property="og:image" content="https://yourimage.com/logo.jpg" />
+</head>
 
   <div style="height: 1px; background: linear-gradient(90deg, transparent 0%, rgba(0,0,0,0.08) 50%, transparent 100%); margin: 2.5rem 0;"></div>
 

@@ -1,0 +1,62 @@
+<div style="font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif; max-width: 850px; margin: 2rem auto; padding: 3.5rem; background: linear-gradient(145deg, rgba(255,255,224,0.97) 0%, rgba(255,250,205,0.97) 100%); border-radius: 20px; box-shadow: 0 12px 24px -6px rgba(0,0,0,0.08), 0 4px 8px -2px rgba(0,0,0,0.02); color: #2d3748; line-height: 1.75; border: 1px solid rgba(255,255,255,0.3); backdrop-filter: blur(2px);">
+
+  <header style="margin-bottom: 2.5rem;">
+    <h1 style="text-align:center; font-size: 2.6rem; margin: 0 0 0.4rem; color: #2b2d42; font-weight: 700; letter-spacing: -0.025em; text-shadow: 0 2px 4px rgba(0,0,0,0.04);">
+      <span style="display: block; margin-bottom: 0.8rem;">✝️</span>
+      <em style="font-style: normal; border-bottom: 3px solid rgba(210,180,140,0.4); padding-bottom: 0.25em;">Colonizing the Moon and Mars is a Duty of Christians</em>
+    </h1>
+    <h2 style="text-align:center; font-size: 1.25rem; color: #4a5568; font-weight: 400; margin-top: 0.8rem; letter-spacing: 0.02em;">
+      A Christian Mission for an Interplanetary Humanity
+    </h2>
+  </header>
+
+  <div style="height: 1px; background: linear-gradient(90deg, transparent 0%, rgba(0,0,0,0.08) 50%, transparent 100%); margin: 2.5rem 0;"></div>
+
+  <blockquote style="text-align:center; margin: 2rem 0; padding: 1.25rem; background: rgba(255,255,255,0.4); border-radius: 8px; border-left: 4px solid #e2e8f0; font-style: italic; color: #4a5568; font-size: 1.05rem;">
+    "In the beginning, God created the heavens and the earth."<br>
+    <cite style="display: block; margin-top: 0.5rem; font-size: 0.9em; color: #718096;">Genesis 1:1</cite>
+  </blockquote>
+
+  <p style="text-align:center; font-weight: 600; font-size: 1.15rem; color: #2d3748; margin: 2rem 0; padding: 1.5rem; background: rgba(255,255,255,0.6); border-radius: 8px;">
+    Space is not just humanity’s next frontier — it’s part of our spiritual mission.
+  </p>
+
+  <section style="margin: 2.5rem 0;">
+    <h3 style="font-size: 1.4rem; color: #2b6cb0; margin-bottom: 1.2rem; padding-bottom: 0.5rem; border-bottom: 2px solid rgba(43,108,176,0.1); display: flex; align-items: center; gap: 0.6rem;">
+      <span>🚀</span>A Christian Duty to Expand into Space
+    </h3>
+    <p style="margin-bottom: 1.5rem; color: #4a5568;">As Christians, we are called to act responsibly for the good of all humanity — not just spiritually, but also strategically. Colonizing the Moon and Mars is no longer science fiction: it is a real, pressing mission that can safeguard the future of our species.</p>
+    <p style="margin-bottom: 1.5rem; color: #4a5568;">There are many existential risks — nuclear war, pandemics, artificial intelligence... and yes, even stray asteroids. We do not wish to follow the fate of the dinosaurs. It’s not fear that moves us, but responsibility.</p>
+    <p style="margin-bottom: 1.5rem; color: #4a5568;">We believe it is part of the Christian vocation to support and encourage space colonization as a way of preserving life, promoting peace, and preparing a future where the Gospel can continue to be present — even beyond Earth.</p>
+  </section>
+
+  <section style="margin: 2.5rem 0;">
+    <h3 style="font-size: 1.4rem; color: #2b6cb0; margin-bottom: 1.2rem; padding-bottom: 0.5rem; border-bottom: 2px solid rgba(43,108,176,0.1); display: flex; align-items: center; gap: 0.6rem;">
+      <span>🛠️</span>What We Do
+    </h3>
+    <p style="margin-bottom: 1.5rem; color: #4a5568;"><strong><em>Fide et Astra</em></strong> is a Christian initiative committed to promoting this vision among decision-makers, institutions, and the general public. We believe that the Christian voice must be present as humanity steps into the stars.</p>
+    <ul style="margin: 1.5rem 0; padding-left: 1.5rem; list-style: none;">
+      <li style="margin-bottom: 1rem; padding-left: 1.5rem; text-indent: -1.5rem; color: #4a5568;">📡 <strong>Advocate</strong> for an ethical and faith-informed approach to space colonization.</li>
+      <li style="margin-bottom: 1rem; padding-left: 1.5rem; text-indent: -1.5rem; color: #4a5568;">📰 <strong>Publish</strong> articles, interviews, and multimedia resources to inform and inspire.</li>
+      <li style="margin-bottom: 1rem; padding-left: 1.5rem; text-indent: -1.5rem; color: #4a5568;">🎓 <strong>Create bridges</strong> between theology, science, philosophy, and space policy.</li>
+      <li style="margin-bottom: 1rem; padding-left: 1.5rem; text-indent: -1.5rem; color: #4a5568;">🌐 <strong>Build</strong> a spiritually grounded community of thinkers, believers, and explorers.</li>
+    </ul>
+    <p style="font-weight: 600; color: #2b6cb0; margin: 2rem 0 1rem;">Faith does not hold us back — it propels us forward.</p>
+  </section>
+
+  <div style="text-align:center; margin: 3rem 0;">
+    <a href="https://paypal.me/saimomnsan" target="_blank" style="background-color: #2563eb; color: white; padding: 1rem 2.5rem; text-decoration: none; font-weight: 600; border-radius: 8px; display: inline-block; transition: all 0.2s ease; box-shadow: 0 4px 6px -1px rgba(37,99,235,0.2); position: relative; overflow: hidden;">
+      <span style="position: relative; z-index: 1;">🌟 Support the Mission</span>
+      <span style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent 25%, rgba(255,255,255,0.15) 50%, transparent 75%); animation: shine 3s infinite; @keyframes shine { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }"></span>
+    </a>
+  </div>
+
+  <footer style="margin-top: 3rem; text-align:center; font-size: 0.9rem; color: #718096;">
+    <p style="margin: 0.5rem 0;">Your support helps us communicate this vision and prepare the Church for a future beyond Earth. ✝️</p>
+    <div style="height: 1px; background: linear-gradient(90deg, transparent 0%, rgba(0,0,0,0.08) 50%, transparent 100%); margin: 2rem 0;"></div>
+    <p style="margin: 1rem 0;">
+      📧 <strong>Contact:</strong> <a href="mailto:astrodeismo@gmail.com" style="color: #2b6cb0; text-decoration: none; font-weight: 500;">astrodeismo@gmail.com</a>
+    </p>
+  </footer>
+
+</div>
